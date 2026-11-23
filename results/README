@@ -1,0 +1,10 @@
+# Results
+
+Aggregate, population-level results only. No individual-level predictions are
+published, consistent with the project's ethics statement.
+
+- `key_results_summary.csv` — headline figures reported in the presentation.
+- `cyp2b6_star18_cross_population.csv` — CYP2B6*18 frequency across populations.
+
+The full per-allele and per-population TSV tables are produced by running
+`pipeline.py` against the 1000 Genomes callset (see repository README).
