@@ -1,0 +1,5 @@
+population,group,star18_frequency_pct,note
+Luhya (LWK),African,6.1,
+Yoruba (YRI),African,11.6,nearly twice the Luhya
+European,European,0.0,absent; p=4.1e-04 vs Luhya
+Han Chinese,East Asian,0.0,absent; p=1.6e-04 vs Luhya

@@ -1,0 +1,16 @@
+metric,value,notes
+Luhya individuals genotyped,99,unrelated; LWK panel
+Luhya haplotypes,198,
+Variants processed,4650,
+Luhya predicted poor metabolizers (%),20.2,CPIC
+Luhya predicted intermediate metabolizers (%),40.4,CPIC
+Luhya reduced-function total (%),60.6,poor + intermediate
+European predicted poor metabolizers (%),6.1,comparator
+Han Chinese predicted poor metabolizers (%),2.9,comparator
+CYP2B6*1 frequency in Luhya (%),45.0,normal-function reference allele (approx)
+CYP2B6*9 frequency in Luhya (%),35.9,516G>T reduced function
+CYP2B6*18 frequency in Luhya (%),6.1,
+Distinct star alleles observed in Luhya,7,
+Indeterminate phenotype calls,3,of 99; reported not dropped
+Total samples in run,508,five populations
+Star-allele calling time (s),358,Colab PaaS runtime
