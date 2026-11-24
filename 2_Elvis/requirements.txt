@@ -1,4 +1,0 @@
-pypgx
-pandas
-scipy
-statsmodels
